@@ -10,7 +10,7 @@
 <li> Secondly, I went and added the "alt" attribute to all the pictures, since there were none. </li>
 <li> Third, I gave the articles the same class, so it would be less code in the CSS file and less redundant. </li>
 <li>  I condensed the footer, and made the code for the footer more simple without chanignt the appearance. </li>
- <li> Lastly, I gave the coding some <u> semantic </u> elements. I noticed it was lot of div's thrown around instead of using semanic elements.
+ <li> Lastly, I gave the coding some <u> semantic </u> elements. I noticed it was lot of div's thrown around instead of using semantic elements.
 </ul>
 </body>
 </html>
