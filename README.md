@@ -3,7 +3,7 @@
 <html>
 <h1> ## WEEKLY- CHALLENGE : REFACTORING ## </h1>
 <body>
-<p> This weekly challenge is based on Refactoring. In this challenge, we had to make sure everything was working correctly (links, images, etc.) as well as clean up the code making it easier to read. </p>
+<p> This week's challenge is based on Refactoring. In this challenge, we were asked to make sure everything was working correctly (links, images, etc.) as well as clean up the code making it easier to read. </p>
  <p> I'll be telling you about the few things I changed to achieve this task: </p>
 <ul>
 <li> First, I noticed in the CSS file, alot of the code was redundant. So, I simply combined them without changing the functionality and appearance of the site. </li>
