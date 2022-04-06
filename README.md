@@ -16,7 +16,12 @@
  <p> Doing this project, I learned that a developer NEVER should repeat themselves.</p>
  <p> Therefore, keep your code clean! </p>
  
- <p> Website:https://bkeviana.github.io/Horiseon-project/  </p>
- ![Screenshot (5)](https://user-images.githubusercontent.com/99054758/161973368-38679c31-8fe9-42e1-bbd0-357e1fd33e20.png)
+ <h2> Website: </h2>
+ <p> https://bkeviana.github.io/Horiseon-project/  </p>
+![Screenshot (5)](https://user-images.githubusercontent.com/99054758/162000680-fc2cb52b-ae45-46b7-98ab-235751c4fbae.png)
+
+  ![Screenshot (6)](https://user-images.githubusercontent.com/99054758/161996199-7f14bd31-9070-430e-b93e-fc25f2f38c5a.png)
+ 
+
 </body>
 </html>
