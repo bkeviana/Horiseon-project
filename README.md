@@ -1,4 +1,4 @@
-# weekly-challenge01
+HORISEON-PROJECT
 
 <html>
 <h1> ## WEEKLY- CHALLENGE : REFACTORING ## </h1>
@@ -16,11 +16,12 @@
  <p> Doing this project, I learned that a developer NEVER should repeat themselves.</p>
  <p> Therefore, keep your code clean! </p>
  
- <h2> Website: </h2>
- <p> https://bkeviana.github.io/Horiseon-project/  </p>
+<h2> Website: </h2>
+ <p>  https://bkeviana.github.io/Horiseon-project/ </p>
  
 ![Screenshot (5)](https://user-images.githubusercontent.com/99054758/162000680-fc2cb52b-ae45-46b7-98ab-235751c4fbae.png)
 
+ <br>
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/99054758/161996199-7f14bd31-9070-430e-b93e-fc25f2f38c5a.png)
  
