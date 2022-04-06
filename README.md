@@ -12,5 +12,7 @@
 <li>  I condensed the footer, and made the code for the footer more simple without changing the appearance. </li>
  <li> Lastly, I gave the coding some <u> semantic </u> elements. I noticed it was lot of div's thrown around instead of using semantic elements.
 </ul>
+ 
+ <p> Website:https://bkeviana.github.io/Horiseon-project/  </p>
 </body>
 </html>
