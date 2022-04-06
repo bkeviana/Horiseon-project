@@ -80,15 +80,12 @@ p {
     display:inline;
     position: relative;
     bottom: 650px;
-    
-}
+    }
 
 .all-benefits {
     margin-bottom: 32px;
     color: #ffffff;
-    
-   
-}
+  }
 
 .all-benefits img {
     display: block;
